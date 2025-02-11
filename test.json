@@ -1,0 +1,332 @@
+[
+    {
+        "intent": "Business Hours",
+        "language": "es-es",
+        "text": "¿A qué hora cierran los sábados?",
+        "entities": [
+            {
+                "category": "Time",
+                "offset": 21,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Buying Used Parts",
+        "language": "es-es",
+        "text": "Necesito comprar una batería usada, ¿tienen en stock?",
+        "entities": [
+            {
+                "category": "PartType",
+                "offset": 22,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "General Repairs",
+        "language": "es-es",
+        "text": "Mi coche hace un ruido extraño, ¿pueden revisarlo?",
+        "entities": []
+    },
+    {
+        "intent": "Goodbye",
+        "language": "es-es",
+        "text": "Muchas gracias, hasta pronto",
+        "entities": []
+    },
+    {
+        "intent": "Greeting",
+        "language": "es-es",
+        "text": "Hola, necesito ayuda con mi coche",
+        "entities": []
+    },
+    {
+        "intent": "ITV and Inspections",
+        "language": "es-es",
+        "text": "¿Pueden hacer una revisión para la ITV?",
+        "entities": [
+            {
+                "category": "Inspection",
+                "offset": 22,
+                "length": 3
+            }
+        ]
+    },
+    {
+        "intent": "Location and Contact",
+        "language": "es-es",
+        "text": "¿Me pueden dar la dirección del taller?",
+        "entities": [
+            {
+                "category": "Location",
+                "offset": 23,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Business Hours",
+        "language": "es-es",
+        "text": "¿A qué hora abren los domingos?",
+        "entities": [
+            {
+                "category": "Time",
+                "offset": 19,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Business Hours",
+        "language": "es-es",
+        "text": "¿Cuáles son sus horarios de atención?",
+        "entities": [
+            {
+                "category": "Time",
+                "offset": 14,
+                "length": 8
+            }
+        ]
+    },
+    {
+        "intent": "Buying Used Parts",
+        "language": "es-es",
+        "text": "¿Tienen neumáticos usados en venta?",
+        "entities": [
+            {
+                "category": "PartType",
+                "offset": 7,
+                "length": 9
+            }
+        ]
+    },
+    {
+        "intent": "Buying Used Parts",
+        "language": "es-es",
+        "text": "Estoy buscando un motor usado, ¿pueden ayudarme?",
+        "entities": [
+            {
+                "category": "PartType",
+                "offset": 17,
+                "length": 5
+            }
+        ]
+    },
+    {
+        "intent": "General Repairs",
+        "language": "es-es",
+        "text": "Mi coche no arranca, ¿pueden repararlo?",
+        "entities": []
+    },
+    {
+        "intent": "General Repairs",
+        "language": "es-es",
+        "text": "El motor de mi coche está fallando, ¿pueden revisarlo?",
+        "entities": []
+    },
+    {
+        "intent": "Goodbye",
+        "language": "es-es",
+        "text": "Adiós, gracias por su ayuda",
+        "entities": []
+    },
+    {
+        "intent": "Goodbye",
+        "language": "es-es",
+        "text": "Hasta luego, que tengan un buen día",
+        "entities": []
+    },
+    {
+        "intent": "Greeting",
+        "language": "es-es",
+        "text": "Buenos días, necesito información sobre mi coche",
+        "entities": []
+    },
+    {
+        "intent": "Greeting",
+        "language": "es-es",
+        "text": "Hola, ¿me pueden ayudar con un problema de mi coche?",
+        "entities": []
+    },
+    {
+        "intent": "ITV and Inspections",
+        "language": "es-es",
+        "text": "¿Cuánto cuesta una revisión para la ITV?",
+        "entities": [
+            {
+                "category": "Inspection",
+                "offset": 21,
+                "length": 3
+            }
+        ]
+    },
+    {
+        "intent": "ITV and Inspections",
+        "language": "es-es",
+        "text": "Necesito una inspección para la ITV, ¿cuándo pueden hacerla?",
+        "entities": [
+            {
+                "category": "Inspection",
+                "offset": 19,
+                "length": 3
+            }
+        ]
+    },
+    {
+        "intent": "Location and Contact",
+        "language": "es-es",
+        "text": "¿Dónde está ubicado el taller?",
+        "entities": [
+            {
+                "category": "Location",
+                "offset": 14,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Location and Contact",
+        "language": "es-es",
+        "text": "¿Me pueden dar el número de teléfono del taller?",
+        "entities": [
+            {
+                "category": "Location",
+                "offset": 23,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Business Hours",
+        "language": "es-es",
+        "text": "¿A qué hora cierran los viernes?",
+        "entities": [
+            {
+                "category": "Time",
+                "offset": 21,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Business Hours",
+        "language": "es-es",
+        "text": "¿Cuáles son sus horarios de apertura?",
+        "entities": [
+            {
+                "category": "Time",
+                "offset": 14,
+                "length": 8
+            }
+        ]
+    },
+    {
+        "intent": "Buying Used Parts",
+        "language": "es-es",
+        "text": "¿Tienen alternadores usados en venta?",
+        "entities": [
+            {
+                "category": "PartType",
+                "offset": 7,
+                "length": 11
+            }
+        ]
+    },
+    {
+        "intent": "Buying Used Parts",
+        "language": "es-es",
+        "text": "Estoy buscando una transmisión usada, ¿pueden ayudarme?",
+        "entities": [
+            {
+                "category": "PartType",
+                "offset": 17,
+                "length": 12
+            }
+        ]
+    },
+    {
+        "intent": "General Repairs",
+        "language": "es-es",
+        "text": "Mi coche tiene una fuga de aceite, ¿pueden repararlo?",
+        "entities": []
+    },
+    {
+        "intent": "General Repairs",
+        "language": "es-es",
+        "text": "El sistema de frenos de mi coche está fallando, ¿pueden revisarlo?",
+        "entities": []
+    },
+    {
+        "intent": "Goodbye",
+        "language": "es-es",
+        "text": "Gracias por su tiempo, adiós",
+        "entities": []
+    },
+    {
+        "intent": "Goodbye",
+        "language": "es-es",
+        "text": "Hasta la próxima, que tengan un buen día",
+        "entities": []
+    },
+    {
+        "intent": "Greeting",
+        "language": "es-es",
+        "text": "Buenas tardes, necesito ayuda con mi coche",
+        "entities": []
+    },
+    {
+        "intent": "Greeting",
+        "language": "es-es",
+        "text": "Hola, ¿me pueden ayudar con una consulta sobre mi coche?",
+        "entities": []
+    },
+    {
+        "intent": "ITV and Inspections",
+        "language": "es-es",
+        "text": "¿Cuánto tiempo tarda una revisión para la ITV?",
+        "entities": [
+            {
+                "category": "Inspection",
+                "offset": 22,
+                "length": 3
+            }
+        ]
+    },
+    {
+        "intent": "ITV and Inspections",
+        "language": "es-es",
+        "text": "Necesito una inspección para la ITV, ¿cuál es el costo?",
+        "entities": [
+            {
+                "category": "Inspection",
+                "offset": 19,
+                "length": 3
+            }
+        ]
+    },
+    {
+        "intent": "Location and Contact",
+        "language": "es-es",
+        "text": "¿Dónde está la entrada del taller?",
+        "entities": [
+            {
+                "category": "Location",
+                "offset": 14,
+                "length": 7
+            }
+        ]
+    },
+    {
+        "intent": "Location and Contact",
+        "language": "es-es",
+        "text": "¿Me pueden dar el correo electrónico del taller?",
+        "entities": [
+            {
+                "category": "Location",
+                "offset": 23,
+                "length": 7
+            }
+        ]
+    }
+]
